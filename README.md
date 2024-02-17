@@ -4,6 +4,19 @@
 
 The project aims to analyze the sales data of a retail company using Excel and create a dashboard that displays the key performance indicators and trends.
 
+## Table of contents
+* [Overview]()
+* [Project Justification]()
+* [Objective]()
+* [Metrics for Evaluating and Monitoring]()
+* [Phases of work]()
+      * [Phase 1: Data Cleaning and Preprocessing]()
+      * [Phase 2: Insightful Visualizations]()
+      * [Phase 3: Dashboard Creation and Formatting]()
+      * [Phase 4: Data Interpretation and Reporting]()
+* [Timeline]()
+      
+
 ## Project Justification:
 
 The project aims to understand the sales of bikes in the United States by analyzing the data of different age groups, employment levels, commute distances, and incomes. The project will also measure the purchasing power of the consumers by different aspects, and identify the factors that influence their buying behavior.
