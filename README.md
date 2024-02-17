@@ -66,8 +66,6 @@ To explore the correlation between income and bike purchases, we've created a pi
 <img width="377" alt="Screenshot 2024-02-17 155519" src="https://github.com/kainat1996/Sales-analysis-Dashboard-with-EXCEL/assets/143352387/008cf69f-efba-4b05-9fee-daa9069d4e40">
 
 
-
-
 **Customer Commute Distance**
 
 To understand the customer behavior, I analyzed the commute distance to buy a bike. Using Excel, I created a pivot table and a line chart that show how many bikes were sold by commute distances
@@ -76,6 +74,7 @@ To understand the customer behavior, I analyzed the commute distance to buy a bi
 **Customer Age Brackets**
 
 I used Excel to see how many bikes were bought by different ages. The pivot table and the line chart show the number of bikes for each age group:
+
 <img width="361" alt="Screenshot 2024-02-17 155631" src="https://github.com/kainat1996/Sales-analysis-Dashboard-with-EXCEL/assets/143352387/383ffdd3-9011-4fb1-9f55-2a9e1c047f98">
 
 ## Timeline: 
