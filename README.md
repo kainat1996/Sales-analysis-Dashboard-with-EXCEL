@@ -76,13 +76,7 @@ To understand the customer behavior, I analyzed the commute distance to buy a bi
 **Customer Age Brackets**
 
 I used Excel to see how many bikes were bought by different ages. The pivot table and the line chart show the number of bikes for each age group:
-
-
-
-
-
-
-
+<img width="361" alt="Screenshot 2024-02-17 155631" src="https://github.com/kainat1996/Sales-analysis-Dashboard-with-EXCEL/assets/143352387/383ffdd3-9011-4fb1-9f55-2a9e1c047f98">
 
 ## Timeline: 
 The project will be completed within 6 to 7 hours, with the following tentative timeline:
