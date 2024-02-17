@@ -63,10 +63,15 @@ Formatted and customized dashboard to make it attractive and user-friendly, such
 In this phase, Ihave interpreted and communicated data analysis results and provide insights and recommendations for the project. 
 To explore the correlation between income and bike purchases, we've created a pivot table showcasing the average income for customers who did and did not make a purchase. The results are summarized in the table below:
 
+<img width="377" alt="Screenshot 2024-02-17 155519" src="https://github.com/kainat1996/Sales-analysis-Dashboard-with-EXCEL/assets/143352387/008cf69f-efba-4b05-9fee-daa9069d4e40">
+
+
+
 
 **Customer Commute Distance**
 
 To understand the customer behavior, I analyzed the commute distance to buy a bike. Using Excel, I created a pivot table and a line chart that show how many bikes were sold by commute distances
+<img width="374" alt="Screenshot 2024-02-17 155610" src="https://github.com/kainat1996/Sales-analysis-Dashboard-with-EXCEL/assets/143352387/4f4ff6f6-22d6-47ec-93b3-bf782d3b2652">
 
 **Customer Age Brackets**
 
